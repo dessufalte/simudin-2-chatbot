@@ -1,0 +1,20 @@
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\bin\x86\Debug\Simudin 2.exe.config
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\Interop.MSScriptControl.dll
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\AxInterop.MSScriptControl.dll
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\Simudin 2.vbproj.ResolveComReference.cache
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\bin\x86\Debug\Simudin 2.exe
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\bin\x86\Debug\Simudin 2.pdb
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\bin\x86\Debug\Qios.DevSuite.Components.dll
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\bin\x86\Debug\VIBlend.WinForms.Controls.dll
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\bin\x86\Debug\VIBlend.WinForms.Utilities.dll
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\bin\x86\Debug\Interop.MSScriptControl.dll
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\bin\x86\Debug\AxInterop.MSScriptControl.dll
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\Simudin 2.vbprojResolveAssemblyReference.cache
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\Simudin_2.Form1.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\Simudin_2.Form2.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\Simudin_2.Form3.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\Simudin_2.Form4.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\Simudin_2.Resources.resources
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\Simudin 2.vbproj.GenerateResource.Cache
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\Simudin 2.exe
+D:\DOKUMEN PENTING\Document imam\Aplikasi\Code Debugger\Simudin 2\Simudin 2\obj\x86\Debug\Simudin 2.pdb
